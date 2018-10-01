@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">p0019counter</string>
+    <string name="hello_button">Поздороваться</string>
+    <string name="crows_count_button">Считаем ворон</string>
+</resources>
